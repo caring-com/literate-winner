@@ -1,4 +1,4 @@
-# ScubaGear
+# Scuba gear 
 <p>
         <a href="https://github.com/cisagov/ScubaGear/releases" alt="ScubaGear version #">
         <img src="https://img.shields.io/badge/ScubaGear-v1.0.0-%2328B953?labelColor=%23005288" /></a>
